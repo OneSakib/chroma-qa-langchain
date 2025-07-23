@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+streamlit
+langchain-community
+langchain-core
+langchain-chroma
+chroma
+fastapi[standard]
+
+
+
