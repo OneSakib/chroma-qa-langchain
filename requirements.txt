@@ -6,6 +6,7 @@ langchain-core
 langchain-chroma
 chroma
 fastapi[standard]
-
-
+python-dotenv
+pypdf
+requests
 
